@@ -1,3 +1,4 @@
+"use strict";
 3 + [];
-var obj = {};
+let obj = {};
 obj.foo;

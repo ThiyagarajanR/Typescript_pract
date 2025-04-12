@@ -13,3 +13,4 @@ console.log(typeof y); // string
 console.log(typeof z); // object
 console.log(a == x); // true
 console.log(b == y); // false
+console.log(c == z); // false
