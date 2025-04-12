@@ -12,3 +12,4 @@ console.log(typeof c); // object
 console.log(typeof x); // number
 console.log(typeof y); // string
 console.log(typeof z); // object
+console.log(a == x); // true
