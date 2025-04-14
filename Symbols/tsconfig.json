@@ -120,6 +120,5 @@
     "./out-tsc",
     "./out-tsc-*",
     "./out-tsc-*.*",
-    "./Typescript Programs/errorprogram.ts",
   ],
 }
